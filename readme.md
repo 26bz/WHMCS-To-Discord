@@ -2,6 +2,8 @@
 
 This integration allows WHMCS clients to automatically receive Discord roles based on their account status. Clients with active products receive one role, while verified clients without active products receive a different role. The system automatically updates roles when client status changes.
 
+![Cover Image](/.images/cover_img.png)
+
 ## Features
 
 - OAuth2 integration for secure Discord verification
